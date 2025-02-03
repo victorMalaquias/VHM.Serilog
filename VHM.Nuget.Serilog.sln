@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VHM.Serilog.API", "VHM.Nuget.Serilog\VHM.Serilog.API.csproj", "{05A67845-2BB0-47DF-BD68-B00AF11A99AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHM.Serilog.Nuget", "VHM.Serilog.Nuget\VHM.Serilog.Nuget.csproj", "{A0107555-6AF4-4D78-AFFC-A4BA1F56D8E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A67845-2BB0-47DF-BD68-B00AF11A99AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A67845-2BB0-47DF-BD68-B00AF11A99AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A67845-2BB0-47DF-BD68-B00AF11A99AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A67845-2BB0-47DF-BD68-B00AF11A99AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0107555-6AF4-4D78-AFFC-A4BA1F56D8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0107555-6AF4-4D78-AFFC-A4BA1F56D8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0107555-6AF4-4D78-AFFC-A4BA1F56D8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0107555-6AF4-4D78-AFFC-A4BA1F56D8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40505FF8-A17E-4937-BE05-71D9AFF9078D}
+	EndGlobalSection
+EndGlobal
